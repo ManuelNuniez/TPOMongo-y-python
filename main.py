@@ -15,5 +15,10 @@ def parte_uno():
     test_db.create_collection('coleccion')
 
 
+def parte_dos():
+    response = list(db.recetas.find())
+    print(response)
+
 def main():
-    parte_uno()
+    #parte_uno()
+    parte_dos()
