@@ -25,9 +25,6 @@ def MostrarTodosLosDocumentos():
     for doc in response:
         print(doc)
 
-# def main():
-#     #parte_uno()
-#     parte_dos()
 
 def filters():
     print("\n1.Recetas que usen 'leche'")
@@ -60,7 +57,6 @@ def filters():
     # for recipe in response:
     #     print(recipe["nombre"])
     
-
-#parte_uno()
-#MostrarTodosLosDocumentos()
-filters()
+def main():
+    #parte_uno()
+    filters()
