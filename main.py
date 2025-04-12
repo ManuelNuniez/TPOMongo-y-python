@@ -4,9 +4,10 @@ from conn import db, client
 def parte_uno():
     print("\nListando todas las bases de datos")
     print(client.list_database_names())
+    print("\nListando todas las Colecciones")
+    print(db.list_collection_names())
 
-    # Eliminar base de datos de pruebas
-    client.drop_database('baseDeDatos')
+    # Creamos Nueva BD de prueba:
 
     print("\nCreando base de datos 'baseDeDatos'")
     test_db = client['baseDeDatos']
@@ -14,11 +15,18 @@ def parte_uno():
     print("\nCreando coleccion 'coleccion'")
     test_db.create_collection('coleccion')
 
+    # Eliminar base de datos de pruebas
+    client.drop_database('baseDeDatos')
 
-def parte_dos():
+# MostrarDocumentos
+def MostrarTodosLosDocumentos():
     response = list(db.recetas.find())
-    print(response)
+    for doc in response:
+        print(doc)
 
-def main():
-    #parte_uno()
-    parte_dos()
+# def main():
+#     #parte_uno()
+#     parte_dos()
+
+#parte_uno()
+MostrarTodosLosDocumentos()
