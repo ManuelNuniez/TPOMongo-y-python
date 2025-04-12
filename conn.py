@@ -4,7 +4,7 @@ from pymongo.errors import ConnectionFailure
 
 client = MongoClient("mongodb://localhost:27017", server_api=ServerApi('1'))
 
-def connect(database_name="RecetasDeCocina"):
+def connect(database_name="recetasDeCocina"):
     try:
         db = client[database_name]
         return db
