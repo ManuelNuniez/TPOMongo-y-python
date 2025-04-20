@@ -23,40 +23,76 @@ def parte_uno():
 def MostrarTodosLosDocumentos():
     response = list(db.recetas.find())
     for doc in response:
-        print(doc)
+        print(doc["_id"], "-", doc["nombre"])
 
 
 def filters():
-    print("\n1.Recetas que usen 'leche'")
-    response = list(db.recetas.find({"ingredientes.nombre": "Leche"}))
-    for recipe in response:
-        print(recipe["nombre"])
-    
-    print("\n2.Recetas con un tiempo de coccion menor a 30 minutos")
-    response = list(db.recetas.find({"tiempo_coccion": {"$lt": 30}}))
-    for recipe in response:
-        print(recipe["nombre"], "-->" ,recipe["tiempo_coccion"], "minuto/s")
-    
-    print("\n3.Recetas que sean de la categoria 'Sopas'")
-    response = list(db.recetas.find({"categoria": "Sopas"}))
-    for recipe in response:
-        print(recipe["nombre"])
-    
-    print("\n4.Recetas para mas de 5 personas")
-    response = list(db.recetas.find({"rendimiento.cantidad": {"$gt": 5}}))
+    print("\n1. Recetas para el desayuno:")
+    response = db.recetas.find({
+        "categoria": "Desayuno"
+        })
     for recipe in response:
         print(recipe["nombre"])
 
-    print("\n5.Recetas que sean de dificultad 'Media'")
-    response = list(db.recetas.find({"dificultad": "Medio"}))
+    print("\n2. Recetas que usen huevos:")
+    response = db.recetas.find({
+        "ingredientes.nombre": {"$regex": "^Huevo"}
+        })
     for recipe in response:
         print(recipe["nombre"])
 
-    # print("\n6.Recetas que no usen 'cebolla'")
-    # response = list(db.recetas.find({"ingredientes.nombre": {"$ne": "Cebolla"}}))
+    print("\n3. Una receta fria:")
+    recipe = db.recetas.find_one({
+        "etiquetas": {
+            "$elemMatch": {
+                "tipo": "temp",
+                "valor": "frio"
+            }
+        }
+    })
+    print(recipe["nombre"])
+
+    # print("\n4. Recetas para más de 5 personas:")                     #TODO: Funciona, pero no todas las recetas en rendimiento usan Porción como unidad        
+    # response = db.recetas.find({
+    # "rendimiento": {
+    #     "$elemMatch": {               
+    #         "$or": [
+    #             {"unidad": "Porción", "cantidad": {"$gt": 5}}
+    #         ]
+    #     }
+    # }
+    # })
     # for recipe in response:
-    #     print(recipe["nombre"])
-    
+    #     print(recipe["nombre"], "=",recipe["rendimiento"][0]["cantidad"], "persona/s")
+
+    # print("\n5. Cantidad de recetas que no usen cebolla:")
+    # response = list(db.recetas.aggregate([
+    #     {
+    #     "$match": {
+    #         "ingredientes.nombre": {
+    #             "$not": {"$regex": "cebolla", "$options": "i"}
+    #         }
+    #     }                                                 #TODO: No funciona, hay que cambiarlo
+    #     },
+    #     {"$count": "total_sin_cebolla"}
+    # ]))
+    # print("Cantidad de recetas:", response["count"])
+
+    print("\n6. Recetas que sean de dificultad media:")
+    response = db.recetas.find({
+        "dificultad": "Media"
+        })
+    for recipe in response:
+        print(recipe["nombre"])
+
+    print("\n7. Recetas que tengan un tiempo de cocción menor a 30 minutos:")
+    response = db.recetas.find({
+        "tiempo_preparación": {"$lt": 30}
+        })
+    for recipe in response:
+        print(recipe["nombre"], "-->", recipe["tiempo_preparación"], "minuto/s")
+
 def main():
     #parte_uno()
+    #MostrarTodosLosDocumentos()
     filters()
