@@ -1,0 +1,2602 @@
+[
+  {
+    "nombre": "Postre Do\u00f1ihue",
+    "descripci\u00f3n": "Cum dolor dolore ex illum. Adipisci eos sed ipsa fugit ex temporibus.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 152,
+    "dificultad": "Medio",
+    "instrucciones": "Autem officiis odit veritatis saepe sint vitae. Ab velit blanditiis vel enim.\nImpedit impedit blanditiis facere fugit dolorem dolor. Cupiditate ducimus at dolorem magnam mollitia soluta.",
+    "imagen": "https://dummyimage.com/17x1017",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 260, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 466, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 226, "unidad": "g", "texto": "172g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": false },
+      { "tipo": "Sart\u00e9n", "valor": true, "texto": "Culpa adipisci." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": true, "texto": "Esse corrupti qui." },
+      { "tipo": "APPC", "valor": false, "texto": "Placeat iure." }
+    ]
+  },
+  {
+    "nombre": "Postre Panguipulli",
+    "descripci\u00f3n": "Placeat illum veniam ab. Vero a ea tenetur inventore officiis quam quidem.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 123,
+    "dificultad": "Medio",
+    "instrucciones": "Accusantium optio tempora quibusdam minima. Autem voluptates tenetur magnam quae.",
+    "imagen": "https://dummyimage.com/704x761",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 161, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 273, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 478, "unidad": "g", "texto": "463g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": false },
+      { "tipo": "Pasta", "valor": null, "texto": "Facere doloremque." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": false, "texto": "Debitis reiciendis." },
+      { "tipo": "Salado", "valor": false, "texto": "Praesentium." }
+    ]
+  },
+  {
+    "nombre": "Sopa R\u00edo Gallegos",
+    "descripci\u00f3n": "Corporis fugit exercitationem non error. Molestiae quisquam facere culpa. Ab eos assumenda qui.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 84,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Facilis quam ut omnis reiciendis. Modi tenetur quae quas.\nQuidem aspernatur ipsam enim molestias ratione labore. Aspernatur rem minus iste excepturi. Nihil dolorum distinctio mollitia nostrum.",
+    "imagen": "https://picsum.photos/858/71",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 335, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 209, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 241, "unidad": "g", "texto": "102g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": false },
+      { "tipo": "Sart\u00e9n", "valor": true, "texto": "Sint doloribus." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": false, "texto": "Suscipit asperiores." },
+      { "tipo": "Caliente", "valor": null, "texto": "Soluta porro hic." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Valpara\u00edso",
+    "descripci\u00f3n": "Quam dolore nostrum fugit totam magni consequatur architecto. Voluptates quidem corporis itaque.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 162,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Quisquam quae enim consequuntur. Iste laudantium unde mollitia. Natus architecto commodi magni sed commodi.",
+    "imagen": "https://picsum.photos/315/196",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 292, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 498, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 110, "unidad": "g", "texto": "474g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": null },
+      { "tipo": "Licuadora", "valor": false, "texto": "Recusandae quis." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Caliente", "valor": false, "texto": "Magni eius odio." },
+      { "tipo": "Frio", "valor": null, "texto": "Impedit suscipit." }
+    ]
+  },
+  {
+    "nombre": "Salsa Ja\u00e9n",
+    "descripci\u00f3n": "Corrupti itaque fuga aliquid. Nam ad illo facilis suscipit voluptates dolorem modi.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 171,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Aut ex nesciunt nesciunt dolore dicta adipisci. Neque beatae aut laudantium accusamus unde.",
+    "imagen": "https://picsum.photos/843/209",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 333, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 130, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 490, "unidad": "g", "texto": "308g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": true },
+      { "tipo": "Horno", "valor": false, "texto": "Veniam unde eum." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": null, "texto": "Minima excepturi." },
+      { "tipo": "Salado", "valor": null, "texto": "Soluta dolorum quis." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Almer\u00eda",
+    "descripci\u00f3n": "Vitae cumque reprehenderit aliquam quia inventore non.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 111,
+    "dificultad": "Medio",
+    "instrucciones": "Soluta molestiae debitis voluptatum ratione ipsa porro. Mollitia mollitia maxime commodi. Quidem dolorum sequi reprehenderit architecto.",
+    "imagen": "https://dummyimage.com/573x650",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 144, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 313, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 307, "unidad": "g", "texto": "389g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": null },
+      { "tipo": "Sart\u00e9n", "valor": null, "texto": "Quo commodi dolorem." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Neque eius sunt." },
+      { "tipo": "Caliente", "valor": false, "texto": "Facere veritatis a." }
+    ]
+  },
+  {
+    "nombre": "Salsa San Ferando del Valle de Catamarca",
+    "descripci\u00f3n": "Excepturi nemo illum expedita quos provident eius. Veniam ipsum facere maxime minus inventore.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 103,
+    "dificultad": "Medio",
+    "instrucciones": "Minima quasi recusandae id. Laudantium quasi doloremque cupiditate. Ex dolores voluptatem asperiores at minus perspiciatis.\nOfficiis animi impedit numquam. Placeat voluptatum eius.",
+    "imagen": "https://placekitten.com/344/499",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 464, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 484, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 165, "unidad": "g", "texto": "222g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": true },
+      { "tipo": "Sart\u00e9n", "valor": false, "texto": "Ipsum id laborum." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Atque quisquam." },
+      { "tipo": "Salado", "valor": true, "texto": "Possimus facilis." }
+    ]
+  },
+  {
+    "nombre": "Salsa Valladolid",
+    "descripci\u00f3n": "Possimus quidem reiciendis. Modi temporibus mollitia alias quasi. Laudantium ut quos.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 68,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Corporis excepturi rerum consequuntur quod adipisci labore. Exercitationem ipsam ex. Accusantium repudiandae modi magni inventore soluta.",
+    "imagen": "https://picsum.photos/848/764",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 392, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 286, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 437, "unidad": "g", "texto": "175g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": true },
+      { "tipo": "Horno", "valor": true, "texto": "Occaecati enim esse." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Praesentium." },
+      { "tipo": "Dulce", "valor": null, "texto": "Quis illo sunt." }
+    ]
+  },
+  {
+    "nombre": "Salsa Jesus de Minas",
+    "descripci\u00f3n": "Harum similique natus exercitationem. Rerum totam dolore debitis fugiat fugit.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 113,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Ea adipisci repellendus numquam. Cupiditate iusto iusto deserunt quis eum tempore reprehenderit.\nSequi officia odit minima. Reprehenderit fugit ipsa animi officiis. Ullam tempore velit nihil.",
+    "imagen": "https://dummyimage.com/248x636",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 380, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 331, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 409, "unidad": "g", "texto": "397g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": null },
+      { "tipo": "Horno", "valor": null, "texto": "Ut atque autem." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": true, "texto": "Iusto eos." },
+      { "tipo": "Dulce", "valor": null, "texto": "Eligendi totam nisi." }
+    ]
+  },
+  {
+    "nombre": "Salsa Guaca",
+    "descripci\u00f3n": "Autem minima occaecati illum. Cumque nam labore a.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 65,
+    "dificultad": "Medio",
+    "instrucciones": "Voluptas illo in quisquam error. Optio incidunt corporis eum maxime. Earum nostrum aliquam esse at reprehenderit.\nDeleniti sed laboriosam quibusdam. Perspiciatis placeat quod aliquid.",
+    "imagen": "https://placekitten.com/567/490",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 100, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 104, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 167, "unidad": "g", "texto": "254g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": null },
+      { "tipo": "Panificado", "valor": null, "texto": "Accusantium quas." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": true, "texto": "Neque ipsam." },
+      { "tipo": "Frio", "valor": true, "texto": "Doloremque incidunt." }
+    ]
+  },
+  {
+    "nombre": "Sandwich Villeta",
+    "descripci\u00f3n": "Laudantium aliquam in.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 112,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Aut atque deserunt. Exercitationem ex accusamus culpa.\nOmnis aspernatur distinctio architecto aliquid beatae. Vero eligendi cum dignissimos eveniet incidunt quasi.",
+    "imagen": "https://dummyimage.com/370x5",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 426, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 122, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 104, "unidad": "g", "texto": "479g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": true },
+      { "tipo": "Pasta", "valor": true, "texto": "Vero quas commodi." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Nisi assumenda." },
+      { "tipo": "Dulce", "valor": null, "texto": "Ullam sint rem." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Palencia",
+    "descripci\u00f3n": "Ex illo est. Perferendis placeat consequuntur vel quaerat assumenda labore.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 14,
+    "dificultad": "Medio",
+    "instrucciones": "Iste minus laborum deleniti eaque occaecati. Reiciendis voluptatibus assumenda ducimus in ullam aliquam quibusdam.",
+    "imagen": "https://dummyimage.com/35x745",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 397, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 253, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 251, "unidad": "g", "texto": "280g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": null },
+      { "tipo": "Licuadora", "valor": false, "texto": "Laudantium animi." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": null, "texto": "Atque minus." },
+      { "tipo": "Dulce", "valor": true, "texto": "Odit doloremque at." }
+    ]
+  },
+  {
+    "nombre": "Postre Azevedo",
+    "descripci\u00f3n": "Similique fugiat perferendis inventore. Et rerum beatae. Aliquam eius amet a.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 56,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Quod quibusdam accusamus repudiandae neque fugiat. Quaerat nostrum odio velit.\nIpsam illo laboriosam ipsam saepe id laboriosam.",
+    "imagen": "https://picsum.photos/122/840",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 304, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 437, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 114, "unidad": "g", "texto": "270g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": true },
+      { "tipo": "Panificado", "valor": true, "texto": "Nam voluptatibus." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": false, "texto": "Dolores vitae." },
+      { "tipo": "Dulce", "valor": false, "texto": "Quisquam nobis a." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Ca\u00f1ete",
+    "descripci\u00f3n": "Optio provident saepe fugit. Neque iste laborum.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 145,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Perspiciatis earum qui cupiditate eveniet aut sunt. Incidunt cupiditate totam error maiores numquam ut. Hic sint hic occaecati nisi porro.\nItaque asperiores sint rem iure impedit.",
+    "imagen": "https://picsum.photos/684/358",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 189, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 314, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 398, "unidad": "g", "texto": "431g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": null },
+      { "tipo": "Sart\u00e9n", "valor": false, "texto": "Quasi quod eum nam." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": false, "texto": "Libero odio." },
+      { "tipo": "Frio", "valor": false, "texto": "Error explicabo." }
+    ]
+  },
+  {
+    "nombre": "Salsa Lugo",
+    "descripci\u00f3n": "Beatae maiores facere ad amet perferendis. Itaque sed quibusdam labore.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 90,
+    "dificultad": "Medio",
+    "instrucciones": "Ducimus voluptatibus maiores ullam odio ea adipisci. Labore quam eaque officia et assumenda natus. Exercitationem nulla vero quasi fuga.",
+    "imagen": "https://picsum.photos/236/56",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 183, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 242, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 292, "unidad": "g", "texto": "330g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": false },
+      { "tipo": "Licuadora", "valor": true, "texto": "Placeat minima." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Necessitatibus." },
+      { "tipo": "Dulce", "valor": false, "texto": "Inventore expedita." }
+    ]
+  },
+  {
+    "nombre": "Salsa Segovia",
+    "descripci\u00f3n": "Voluptas quam harum dolor quod maxime doloremque hic. Natus ipsa magnam accusantium tempore.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 127,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Nesciunt voluptatum accusamus culpa. Repellat repellendus ipsa at. Blanditiis provident recusandae quo recusandae quam aperiam. Mollitia exercitationem voluptates autem id eum corrupti.",
+    "imagen": "https://placekitten.com/790/200",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 322, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 336, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 321, "unidad": "g", "texto": "491g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": null },
+      { "tipo": "Microondas", "valor": true, "texto": "Quis possimus." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": false, "texto": "Minima at a quae." },
+      { "tipo": "APPC", "valor": true, "texto": "Harum nesciunt." }
+    ]
+  },
+  {
+    "nombre": "Postre Sales",
+    "descripci\u00f3n": "Vero tempora possimus cumque eos sed. Fugiat voluptate molestias.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 176,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Voluptates architecto nesciunt sint. Deleniti cumque omnis provident odio error veritatis.\nAb hic vel quasi. Expedita voluptate quia esse.",
+    "imagen": "https://dummyimage.com/34x61",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 253, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 271, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 325, "unidad": "g", "texto": "222g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": null },
+      { "tipo": "Pasta", "valor": null, "texto": "Magnam magnam ipsam." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Caliente", "valor": null, "texto": "Eum sunt delectus." },
+      { "tipo": "Frio", "valor": null, "texto": "Necessitatibus." }
+    ]
+  },
+  {
+    "nombre": "Ensalada San Juan",
+    "descripci\u00f3n": "Sunt eaque assumenda tempore. Ea quam nihil corrupti. Voluptatibus quaerat delectus inventore modi.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 138,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Aspernatur architecto illo id ipsa iusto. Ratione odio at suscipit mollitia ipsum minus.",
+    "imagen": "https://placekitten.com/383/141",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 282, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 417, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 453, "unidad": "g", "texto": "193g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": null },
+      { "tipo": "Sart\u00e9n", "valor": false, "texto": "Optio delectus." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Veniam quia rem id." },
+      { "tipo": "Frio", "valor": false, "texto": "Omnis voluptas." }
+    ]
+  },
+  {
+    "nombre": "Postre Casa Grande",
+    "descripci\u00f3n": "Laudantium voluptatem error. Dignissimos quia porro quisquam.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 30,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Eos delectus nulla totam architecto inventore. Ea ab voluptates excepturi. Dicta temporibus maiores praesentium recusandae illo id. Quisquam velit qui alias.",
+    "imagen": "https://dummyimage.com/179x234",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 280, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 172, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 159, "unidad": "g", "texto": "148g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": false },
+      { "tipo": "Panificado", "valor": false, "texto": "Doloremque sapiente." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Caliente", "valor": true, "texto": "Doloribus dolore." },
+      { "tipo": "APPC", "valor": false, "texto": "At quam optio." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Bah\u00eda Blanca",
+    "descripci\u00f3n": "Deserunt deleniti excepturi officia. Ipsam vero impedit ex earum nisi sed voluptate.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 113,
+    "dificultad": "Medio",
+    "instrucciones": "Quaerat expedita vero qui quidem accusantium. Iusto animi dolorem facilis vitae dolor. Sit asperiores nam impedit modi repellat saepe. Aliquam quo mollitia ratione.",
+    "imagen": "https://placekitten.com/752/585",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 473, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 296, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 316, "unidad": "g", "texto": "493g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": false },
+      { "tipo": "Sart\u00e9n", "valor": true, "texto": "Cupiditate dolorum." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Hic ab modi quam." },
+      { "tipo": "Salado", "valor": false, "texto": "Ut suscipit." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Rosario",
+    "descripci\u00f3n": "Laudantium culpa quae voluptatem tempore magni sapiente. Vero est explicabo error est excepturi.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 178,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Quam beatae harum in. Assumenda illo eligendi corrupti est dicta culpa.\nSint odio in ad sint aliquid. Minima explicabo cumque exercitationem necessitatibus harum.",
+    "imagen": "https://placekitten.com/791/110",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 479, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 321, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 140, "unidad": "g", "texto": "430g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": null },
+      { "tipo": "Sart\u00e9n", "valor": null, "texto": "Assumenda aperiam." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Ut non alias nam." },
+      { "tipo": "APPC", "valor": null, "texto": "Ut explicabo vel." }
+    ]
+  },
+  {
+    "nombre": "Postre Ovalle",
+    "descripci\u00f3n": "Aperiam minima ex quae. Aperiam doloribus autem. Optio itaque dolores eius dolores.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 84,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Deserunt sapiente earum maxime. Alias repellendus soluta vel nisi reiciendis quidem. Alias deleniti veritatis rerum. Dolore optio ullam sit eaque voluptates quod.",
+    "imagen": "https://placekitten.com/316/646",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 108, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 471, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 444, "unidad": "g", "texto": "108g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": null },
+      { "tipo": "Sart\u00e9n", "valor": null, "texto": "Iusto dolorum esse." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Facilis." },
+      { "tipo": "Caliente", "valor": true, "texto": "Commodi maxime quis." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Mar del Plata",
+    "descripci\u00f3n": "Fuga ullam expedita exercitationem blanditiis ipsa. Dolorum culpa eos.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 175,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Voluptatum corrupti quia officia quia facere culpa. Laboriosam quaerat recusandae deserunt aliquid consequatur quod. Iste voluptas expedita omnis est. In praesentium delectus totam.",
+    "imagen": "https://picsum.photos/474/17",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 352, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 444, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 430, "unidad": "g", "texto": "135g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": true },
+      { "tipo": "Microondas", "valor": null, "texto": "Consequuntur." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Caliente", "valor": true, "texto": "Voluptate fugiat." },
+      { "tipo": "Salado", "valor": true, "texto": "Modi voluptatem." }
+    ]
+  },
+  {
+    "nombre": "Sandwich Copiap\u00f3",
+    "descripci\u00f3n": "Voluptatum impedit ea distinctio dolor.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 74,
+    "dificultad": "Medio",
+    "instrucciones": "Numquam necessitatibus eius quia nihil. Adipisci adipisci animi eum similique animi sint deserunt. Laudantium dignissimos deleniti sequi repudiandae occaecati architecto fugit.",
+    "imagen": "https://placekitten.com/833/214",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 454, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 432, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 273, "unidad": "g", "texto": "145g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": null },
+      { "tipo": "Horno", "valor": true, "texto": "Repellendus dicta." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": null, "texto": "Magnam dolorem." },
+      { "tipo": "Frio", "valor": false, "texto": "Nisi repellat at." }
+    ]
+  },
+  {
+    "nombre": "Postre Zamora",
+    "descripci\u00f3n": "Necessitatibus facilis doloremque odit. Aliquam ad facere reprehenderit quibusdam excepturi.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 68,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Reiciendis cumque eveniet nostrum. Consequatur corrupti qui eveniet facere ipsa vero.\nRerum amet iste consectetur numquam.",
+    "imagen": "https://dummyimage.com/329x411",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 309, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 492, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 473, "unidad": "g", "texto": "487g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": null },
+      { "tipo": "Pasta", "valor": false, "texto": "Repudiandae." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": null, "texto": "Debitis quaerat." },
+      { "tipo": "APPC", "valor": null, "texto": "Eligendi nobis." }
+    ]
+  },
+  {
+    "nombre": "Sopa Chill\u00e1n",
+    "descripci\u00f3n": "Temporibus officia explicabo.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 153,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Ipsam placeat expedita. Voluptates debitis cupiditate quam molestiae quaerat ut. Quasi culpa suscipit est occaecati tempore quasi. Labore id necessitatibus numquam est dolorem.",
+    "imagen": "https://picsum.photos/815/630",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 117, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 327, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 193, "unidad": "g", "texto": "236g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": false },
+      { "tipo": "Sart\u00e9n", "valor": true, "texto": "Quia dolores vitae." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": null, "texto": "Eum eaque natus." },
+      { "tipo": "Caliente", "valor": false, "texto": "Laudantium beatae." }
+    ]
+  },
+  {
+    "nombre": "Postre Azevedo da Serra",
+    "descripci\u00f3n": "Cumque hic voluptates odio dolores sunt. Earum natus libero animi saepe id eligendi.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 153,
+    "dificultad": "Medio",
+    "instrucciones": "Beatae itaque ut modi nobis. Nemo eos aut ipsa ipsa vel accusamus.\nEum neque quis sint nesciunt. Veritatis a deleniti illum quae. Maxime cum inventore est quae.",
+    "imagen": "https://placekitten.com/992/974",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 320, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 414, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 319, "unidad": "g", "texto": "440g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": true },
+      { "tipo": "Licuadora", "valor": null, "texto": "Sunt qui dolorum." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Possimus eaque." },
+      { "tipo": "Dulce", "valor": true, "texto": "Numquam enim." }
+    ]
+  },
+  {
+    "nombre": "Sandwich Puqueld\u00f3n",
+    "descripci\u00f3n": "Itaque doloremque iure in velit consectetur. Quis nostrum voluptates nostrum hic voluptates natus.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 31,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Eligendi nihil laboriosam harum at magni labore. Enim adipisci quibusdam. Tempore veniam quas occaecati velit illum.\nIste et aliquid harum qui quae architecto ex. Quam alias dignissimos possimus.",
+    "imagen": "https://dummyimage.com/95x542",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 378, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 135, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 190, "unidad": "g", "texto": "389g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": null },
+      { "tipo": "Microondas", "valor": null, "texto": "Mollitia omnis aut." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Expedita sequi nam." },
+      { "tipo": "Caliente", "valor": null, "texto": "Saepe quos corporis." }
+    ]
+  },
+  {
+    "nombre": "Postre Jun\u00edn",
+    "descripci\u00f3n": "Minima facere esse magni ducimus incidunt. Maiores soluta facere ea. Rem nam possimus ut.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 17,
+    "dificultad": "Medio",
+    "instrucciones": "Vero esse error sed. Consequatur architecto dolore in soluta quidem consequatur.\nExplicabo iure unde iste magni. Debitis magnam nemo quasi laudantium natus. Eum esse repudiandae mollitia.",
+    "imagen": "https://placekitten.com/705/254",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 161, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 415, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 468, "unidad": "g", "texto": "252g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": false },
+      { "tipo": "Microondas", "valor": true, "texto": "Cum sit atque." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": null, "texto": "Vero culpa nulla." },
+      { "tipo": "APPC", "valor": true, "texto": "Mollitia velit." }
+    ]
+  },
+  {
+    "nombre": "Postre Abriaqu\u00ed",
+    "descripci\u00f3n": "Repudiandae laborum ad temporibus voluptatem hic. Reiciendis ipsa dicta dolorem totam ipsum.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 119,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Facere laborum beatae totam. Aliquid eaque nostrum perferendis.\nError nihil blanditiis sint cum eveniet. Provident laudantium deleniti et magnam.",
+    "imagen": "https://placekitten.com/824/703",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 156, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 122, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 110, "unidad": "g", "texto": "477g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": true },
+      { "tipo": "Microondas", "valor": null, "texto": "Magnam alias." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Deserunt dolor eius." },
+      { "tipo": "Salado", "valor": true, "texto": "Laboriosam tempora." }
+    ]
+  },
+  {
+    "nombre": "Sandwich Paiguano",
+    "descripci\u00f3n": "In numquam cum nemo voluptate nihil est. Esse et dicta ipsum atque dignissimos ipsum.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 65,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Doloremque accusamus ut tenetur facere iusto. Doloribus dignissimos vitae fuga minima possimus.\nMinus debitis doloremque. Voluptatem consequatur quibusdam vero explicabo.",
+    "imagen": "https://placekitten.com/119/824",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 229, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 399, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 382, "unidad": "g", "texto": "272g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": true },
+      { "tipo": "Microondas", "valor": false, "texto": "Nisi voluptas." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Et enim officia." },
+      { "tipo": "Salado", "valor": null, "texto": "Iure quia sit quos." }
+    ]
+  },
+  {
+    "nombre": "Sopa Santa Fe",
+    "descripci\u00f3n": "Mollitia aut dolorum inventore mollitia. Impedit nostrum quis officiis minima necessitatibus omnis.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 135,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Nulla earum rerum eveniet. Aperiam quod quis quas sint fuga. Est asperiores harum laborum maxime accusantium voluptate. Aspernatur maxime repudiandae neque tempore.",
+    "imagen": "https://dummyimage.com/569x31",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 111, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 176, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 471, "unidad": "g", "texto": "152g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": true },
+      { "tipo": "Sart\u00e9n", "valor": null, "texto": "Ipsa error ipsa." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": null, "texto": "Rerum veritatis." },
+      { "tipo": "Frio", "valor": true, "texto": "Placeat quasi." }
+    ]
+  },
+  {
+    "nombre": "Sopa Pontevedra",
+    "descripci\u00f3n": "Voluptates excepturi quasi illum fuga ullam minus. Quam odit qui commodi.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 88,
+    "dificultad": "Medio",
+    "instrucciones": "Laborum maxime ut.\nAsperiores perferendis provident magni illum. Est atque sit molestiae laborum minus.",
+    "imagen": "https://picsum.photos/347/455",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 426, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 286, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 290, "unidad": "g", "texto": "226g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": false },
+      { "tipo": "Panificado", "valor": true, "texto": "Distinctio quia." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Minus minus odit." },
+      { "tipo": "Dulce", "valor": false, "texto": "Quo deleniti minus." }
+    ]
+  },
+  {
+    "nombre": "Sopa San Ferando del Valle de Catamarca",
+    "descripci\u00f3n": "Dolor dicta quaerat rem ducimus. Repellat sit aliquid saepe impedit ullam ipsam.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 104,
+    "dificultad": "Medio",
+    "instrucciones": "Molestias nemo totam minima eius voluptatum recusandae. Repellat asperiores dolorem alias.\nSapiente explicabo adipisci unde asperiores. Rem hic explicabo. Occaecati occaecati fugiat eos consectetur.",
+    "imagen": "https://dummyimage.com/311x116",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 410, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 281, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 474, "unidad": "g", "texto": "486g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": true },
+      { "tipo": "Microondas", "valor": true, "texto": "Velit alias libero." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": true, "texto": "Iusto recusandae." },
+      { "tipo": "Dulce", "valor": false, "texto": "Dolorum ipsum eaque." }
+    ]
+  },
+  {
+    "nombre": "Salsa La Coru\u00f1a",
+    "descripci\u00f3n": "In nam eos.\nQui ullam fugiat vero. Corrupti et excepturi eum est in.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 163,
+    "dificultad": "Medio",
+    "instrucciones": "Velit sed iste magnam. Nemo quidem ex quo voluptas.\nQuibusdam iure voluptatem minima asperiores.\nQuasi minima a. Tempore ipsum in ad voluptas. Ducimus repellendus qui nesciunt ab eveniet dolorum.",
+    "imagen": "https://dummyimage.com/518x707",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 272, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 243, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 299, "unidad": "g", "texto": "170g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": false },
+      { "tipo": "Horno", "valor": true, "texto": "Consectetur." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": false, "texto": "Porro facilis nobis." },
+      { "tipo": "APPC", "valor": null, "texto": "Molestiae nemo." }
+    ]
+  },
+  {
+    "nombre": "Sopa R\u00edo Gallegos",
+    "descripci\u00f3n": "Ab nemo corporis modi tempora error. Iure debitis impedit vel incidunt pariatur in.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 32,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Asperiores alias provident nemo. Eos qui illo placeat doloremque nesciunt. Error aliquam at excepturi odio.",
+    "imagen": "https://picsum.photos/150/780",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 132, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 339, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 168, "unidad": "g", "texto": "350g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": true },
+      { "tipo": "Sart\u00e9n", "valor": true, "texto": "Cupiditate." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Repellat." },
+      { "tipo": "Caliente", "valor": false, "texto": "Nulla optio nemo." }
+    ]
+  },
+  {
+    "nombre": "Sopa San Nicol\u00e1s",
+    "descripci\u00f3n": "Odio magnam et illum porro. Corrupti voluptatem sapiente eos aperiam repellat.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 21,
+    "dificultad": "Medio",
+    "instrucciones": "Repellendus voluptates debitis repellendus. Deserunt fuga eveniet ullam facilis reiciendis hic est. A delectus voluptas ratione dolorem id voluptates.\nEst enim libero a nam suscipit.",
+    "imagen": "https://picsum.photos/700/264",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 456, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 460, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 473, "unidad": "g", "texto": "457g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": null },
+      { "tipo": "Panificado", "valor": null, "texto": "Modi natus." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Iure fuga quas." },
+      { "tipo": "Dulce", "valor": null, "texto": "Voluptas sunt." }
+    ]
+  },
+  {
+    "nombre": "Ensalada C\u00f3rdoba",
+    "descripci\u00f3n": "Necessitatibus dolorum eos. Quisquam aut ut iusto corporis provident animi.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 140,
+    "dificultad": "Medio",
+    "instrucciones": "Eligendi nemo nulla consequatur vero sunt. Illum veritatis corporis similique vel vero cupiditate. Minima fugit earum fugit alias.",
+    "imagen": "https://picsum.photos/124/202",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 350, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 354, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 154, "unidad": "g", "texto": "283g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": true },
+      { "tipo": "Pasta", "valor": null, "texto": "Exercitationem." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": true, "texto": "Iusto distinctio." },
+      { "tipo": "Caliente", "valor": null, "texto": "Modi recusandae." }
+    ]
+  },
+  {
+    "nombre": "Sopa El Tabo",
+    "descripci\u00f3n": "Consequatur at distinctio. Magni explicabo sint aspernatur. Delectus mollitia tempora quo.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 167,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Quaerat quidem soluta quas itaque. Accusamus labore laudantium ut.\nFacilis numquam assumenda atque ipsam. Accusamus ea magnam aut quidem placeat. Dicta recusandae maxime consequuntur similique a.",
+    "imagen": "https://picsum.photos/683/245",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 431, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 326, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 269, "unidad": "g", "texto": "253g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": null },
+      { "tipo": "Microondas", "valor": true, "texto": "Cupiditate ipsum." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Quasi voluptas." },
+      { "tipo": "Caliente", "valor": true, "texto": "Magni architecto." }
+    ]
+  },
+  {
+    "nombre": "Sopa Sotaquir\u00e1",
+    "descripci\u00f3n": "Ullam dicta id. Fuga necessitatibus sunt aut et autem quod soluta.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 68,
+    "dificultad": "Medio",
+    "instrucciones": "Aut dolor doloremque esse sint placeat repellat. Corrupti vero eius.\nQuisquam in consectetur sapiente totam. Non explicabo quibusdam quo recusandae explicabo.",
+    "imagen": "https://picsum.photos/524/695",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 353, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 427, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 105, "unidad": "g", "texto": "215g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": false },
+      { "tipo": "Sart\u00e9n", "valor": true, "texto": "Reprehenderit." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": true, "texto": "Fuga explicabo." },
+      { "tipo": "Salado", "valor": true, "texto": "Accusamus quod." }
+    ]
+  },
+  {
+    "nombre": "Postre Viedma",
+    "descripci\u00f3n": "Rem debitis repellat laudantium rerum. Ducimus voluptatum impedit harum.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 129,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Aliquid suscipit quidem pariatur dolorem sunt harum. A animi saepe. Facilis porro delectus dolores modi maxime fugit.",
+    "imagen": "https://placekitten.com/386/622",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 226, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 452, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 103, "unidad": "g", "texto": "250g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": null },
+      { "tipo": "Sart\u00e9n", "valor": null, "texto": "Unde repudiandae." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": true, "texto": "Deserunt sequi." },
+      { "tipo": "Dulce", "valor": true, "texto": "Sapiente sed velit." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Asturias",
+    "descripci\u00f3n": "Pariatur dolores omnis quis sit iure. Sequi voluptate magni aliquid facilis quo.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 142,
+    "dificultad": "Medio",
+    "instrucciones": "Rerum inventore itaque vero autem ipsa nesciunt officia. Nihil voluptas quod ducimus.",
+    "imagen": "https://picsum.photos/125/180",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 329, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 372, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 237, "unidad": "g", "texto": "443g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": null },
+      { "tipo": "Horno", "valor": true, "texto": "Laborum culpa iure." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": null, "texto": "Culpa quae ut." },
+      { "tipo": "Salado", "valor": false, "texto": "Nam minus eligendi." }
+    ]
+  },
+  {
+    "nombre": "Postre Chivat\u00e1",
+    "descripci\u00f3n": "Ab vero porro harum. Reprehenderit occaecati et dignissimos. Suscipit vitae ipsum a dicta nobis.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 121,
+    "dificultad": "Medio",
+    "instrucciones": "Doloremque amet rerum nam repellendus. Recusandae hic quo ipsam molestias sed. Corporis possimus dolore.",
+    "imagen": "https://picsum.photos/896/394",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 108, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 175, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 173, "unidad": "g", "texto": "369g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": null },
+      { "tipo": "Panificado", "valor": false, "texto": "Eveniet fuga quam." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Dolorem beatae." },
+      { "tipo": "Frio", "valor": false, "texto": "Ipsam dolor ipsum." }
+    ]
+  },
+  {
+    "nombre": "Salsa Pimenta Grande",
+    "descripci\u00f3n": "Dignissimos architecto eveniet tempora harum nobis.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 16,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Reprehenderit asperiores aspernatur dignissimos. Rerum hic provident vitae. Nemo occaecati quos expedita tenetur necessitatibus quis.",
+    "imagen": "https://placekitten.com/367/538",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 263, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 150, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 376, "unidad": "g", "texto": "420g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": null },
+      { "tipo": "Horno", "valor": false, "texto": "Iusto eveniet." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": false, "texto": "Distinctio." },
+      { "tipo": "Frio", "valor": false, "texto": "Maxime doloribus." }
+    ]
+  },
+  {
+    "nombre": "Postre Siqueira",
+    "descripci\u00f3n": "Tempora incidunt magnam sequi tempore sunt nesciunt sed. Expedita omnis libero sit labore dicta.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 114,
+    "dificultad": "Medio",
+    "instrucciones": "Voluptas animi eveniet ipsam voluptates ullam accusantium quam. Atque id hic facere necessitatibus possimus. Ducimus reiciendis fugiat sint nesciunt cum placeat.",
+    "imagen": "https://placekitten.com/847/1004",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 365, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 122, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 319, "unidad": "g", "texto": "186g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": false },
+      { "tipo": "Horno", "valor": false, "texto": "Eum officiis nulla." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Nesciunt facere cum." },
+      { "tipo": "Dulce", "valor": false, "texto": "Sequi unde animi." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Souza de Minas",
+    "descripci\u00f3n": "Magni suscipit eligendi possimus incidunt autem veniam.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 28,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Dolorem reprehenderit minus vero dolor quae est. Eos veniam iusto accusamus minima corrupti vitae. Ad tempore facere.",
+    "imagen": "https://placekitten.com/1/639",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 473, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 455, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 340, "unidad": "g", "texto": "334g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": null },
+      { "tipo": "Microondas", "valor": null, "texto": "Illo impedit eius." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Vero ad aliquid." },
+      { "tipo": "Caliente", "valor": false, "texto": "Ducimus excepturi." }
+    ]
+  },
+  {
+    "nombre": "Sopa Granada",
+    "descripci\u00f3n": "Cum nisi qui distinctio enim consequatur. Nisi deserunt nisi provident incidunt voluptatum.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 11,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Facere nam ipsam ab error iure. Veritatis soluta id necessitatibus.\nProvident maxime aut itaque a quod. Qui a dicta sequi dolore eius fuga.",
+    "imagen": "https://placekitten.com/92/199",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 141, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 400, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 160, "unidad": "g", "texto": "279g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": null },
+      { "tipo": "Sart\u00e9n", "valor": false, "texto": "Itaque sint magni." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": null, "texto": "Minus neque eaque." },
+      { "tipo": "Dulce", "valor": true, "texto": "Est architecto." }
+    ]
+  },
+  {
+    "nombre": "Postre Duarte de Albuquerque",
+    "descripci\u00f3n": "Officia perferendis tempore deserunt iusto atque. Et in possimus ex sint officiis.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 177,
+    "dificultad": "Medio",
+    "instrucciones": "Vel autem enim quas modi maiores est. Sit velit nam minus tenetur repellendus. Veritatis ducimus tenetur. Id ducimus expedita soluta.",
+    "imagen": "https://placekitten.com/229/689",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 241, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 251, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 168, "unidad": "g", "texto": "318g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": null },
+      { "tipo": "Sart\u00e9n", "valor": true, "texto": "Veniam possimus." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": false, "texto": "Omnis qui eum." },
+      { "tipo": "Caliente", "valor": true, "texto": "Quis voluptas error." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Chipaque",
+    "descripci\u00f3n": "Laborum similique non sapiente aliquid. Quos magni quis fuga.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 52,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Impedit eveniet aperiam nulla at nulla. Placeat error earum ea. Ad minus eveniet repellendus eveniet.\nAt praesentium laudantium sed. Qui ipsa doloremque tenetur delectus vel.",
+    "imagen": "https://placekitten.com/153/316",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 359, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 113, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 182, "unidad": "g", "texto": "330g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": null },
+      { "tipo": "Horno", "valor": false, "texto": "Est porro aliquam." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Quisquam rerum quos." },
+      { "tipo": "Dulce", "valor": null, "texto": "Dignissimos maxime." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Fernandes de Ferreira",
+    "descripci\u00f3n": "Possimus perspiciatis illo cupiditate eveniet ducimus. Ex architecto aliquam.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 19,
+    "dificultad": "Medio",
+    "instrucciones": "Impedit quae eveniet. Voluptatem suscipit labore maiores. Unde dolorem exercitationem ratione facilis ea harum corporis.",
+    "imagen": "https://picsum.photos/402/490",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 201, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 219, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 212, "unidad": "g", "texto": "331g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": true },
+      { "tipo": "Horno", "valor": null, "texto": "Accusamus alias." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": false, "texto": "Veniam voluptas." },
+      { "tipo": "Dulce", "valor": null, "texto": "Dignissimos illum." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Girona",
+    "descripci\u00f3n": "Aliquam rerum nam quasi.\nPlaceat quas necessitatibus. Error aspernatur eveniet ipsum. Id dolor eum.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 12,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Laudantium vitae amet a quas voluptatem ducimus. Consectetur necessitatibus molestiae maxime consequuntur quibusdam provident. Ex perspiciatis in eveniet repellat eligendi.",
+    "imagen": "https://placekitten.com/26/198",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 203, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 499, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 341, "unidad": "g", "texto": "406g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": null },
+      { "tipo": "Microondas", "valor": null, "texto": "Magni expedita." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": null, "texto": "Rem sint odit." },
+      { "tipo": "Frio", "valor": null, "texto": "Quasi magni." }
+    ]
+  },
+  {
+    "nombre": "Postre San Ferando del Valle de Catamarca",
+    "descripci\u00f3n": "Molestias ea at. Ipsam officia molestiae nobis labore aut quae.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 53,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Minus repudiandae consectetur incidunt odit autem officia. Ipsa fugiat voluptatem eligendi.",
+    "imagen": "https://dummyimage.com/597x701",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 383, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 449, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 183, "unidad": "g", "texto": "209g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": true },
+      { "tipo": "Panificado", "valor": true, "texto": "Qui doloribus porro." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": true, "texto": "Incidunt quam." },
+      { "tipo": "APPC", "valor": true, "texto": "Sit aperiam soluta." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Guip\u00fazcoa",
+    "descripci\u00f3n": "Dolorum dolorem numquam error quibusdam. Architecto autem exercitationem cumque doloribus vero.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 70,
+    "dificultad": "Medio",
+    "instrucciones": "Ipsa similique ab placeat dolorum modi eius velit. Qui suscipit perspiciatis quo.\nQuod cupiditate quo expedita veniam aspernatur molestiae.",
+    "imagen": "https://placekitten.com/433/191",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 308, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 257, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 485, "unidad": "g", "texto": "167g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": null },
+      { "tipo": "Horno", "valor": null, "texto": "Assumenda." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": null, "texto": "Eveniet dicta iste." },
+      { "tipo": "Salado", "valor": false, "texto": "Unde enim." }
+    ]
+  },
+  {
+    "nombre": "Sandwich R\u00edo Gallegos",
+    "descripci\u00f3n": "Modi architecto quo. Aliquam veniam necessitatibus harum soluta.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 141,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Pariatur earum quos recusandae iusto nobis. Commodi similique perferendis itaque repellat.",
+    "imagen": "https://placekitten.com/790/85",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 270, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 363, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 315, "unidad": "g", "texto": "192g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": false },
+      { "tipo": "Sart\u00e9n", "valor": true, "texto": "Nisi ex tempore." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Eveniet quisquam." },
+      { "tipo": "Salado", "valor": null, "texto": "Quae earum magni." }
+    ]
+  },
+  {
+    "nombre": "Sopa Santa Ana",
+    "descripci\u00f3n": "Officia deserunt in est non. Deleniti cum fuga doloribus modi.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 75,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Modi quo quas mollitia libero. Rerum eius laudantium corporis dolor magnam.\nDucimus neque sunt ipsa velit. Blanditiis molestiae ut eligendi. Debitis earum eaque necessitatibus.",
+    "imagen": "https://placekitten.com/106/607",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 151, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 399, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 189, "unidad": "g", "texto": "383g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": null },
+      { "tipo": "Pasta", "valor": false, "texto": "Molestiae." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": true, "texto": "Rem odio sequi." },
+      { "tipo": "Frio", "valor": null, "texto": "Voluptas dolorem." }
+    ]
+  },
+  {
+    "nombre": "Postre San Luis",
+    "descripci\u00f3n": "Impedit veritatis tenetur earum. Labore excepturi beatae asperiores.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 120,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Eligendi ipsa et dignissimos. Quisquam ipsum officiis recusandae doloremque.",
+    "imagen": "https://picsum.photos/223/204",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 458, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 116, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 324, "unidad": "g", "texto": "240g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": true },
+      { "tipo": "Sart\u00e9n", "valor": null, "texto": "Dolorum culpa." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": false, "texto": "Voluptates eveniet." },
+      { "tipo": "Salado", "valor": null, "texto": "Autem corrupti." }
+    ]
+  },
+  {
+    "nombre": "Sopa La Palma",
+    "descripci\u00f3n": "Distinctio consequuntur omnis molestias. Officia dolores porro quo odit.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 55,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Possimus alias eum quas. Voluptates occaecati quis expedita. Alias distinctio quaerat nihil explicabo temporibus quae.",
+    "imagen": "https://picsum.photos/834/58",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 357, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 236, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 382, "unidad": "g", "texto": "191g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": null },
+      { "tipo": "Licuadora", "valor": false, "texto": "Nihil in cumque." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": null, "texto": "Corrupti voluptates." },
+      { "tipo": "Salado", "valor": false, "texto": "Provident fugiat." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Llanquihue",
+    "descripci\u00f3n": "Nulla id dolorem doloribus sit. Corporis saepe cupiditate exercitationem delectus.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 133,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Voluptas incidunt facere. Ab quibusdam libero accusamus omnis exercitationem. Id maiores rerum quod quia impedit.",
+    "imagen": "https://placekitten.com/1/974",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 459, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 111, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 441, "unidad": "g", "texto": "436g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": true },
+      { "tipo": "Horno", "valor": true, "texto": "Labore quaerat." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": null, "texto": "Quod ea labore qui." },
+      { "tipo": "Salado", "valor": null, "texto": "Deserunt." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Macedo do Norte",
+    "descripci\u00f3n": "Voluptatem quaerat doloremque. Ipsa non non quod.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 130,
+    "dificultad": "Medio",
+    "instrucciones": "Eos ex eum recusandae eum rerum. Sit minus corrupti non. Amet at vel optio unde vero.\nMagni perferendis corrupti eligendi quaerat quae. Eaque architecto debitis quas repellendus vero.",
+    "imagen": "https://picsum.photos/736/469",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 423, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 346, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 423, "unidad": "g", "texto": "357g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": null },
+      { "tipo": "Pasta", "valor": null, "texto": "Impedit illo." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Caliente", "valor": true, "texto": "At voluptatem error." },
+      { "tipo": "Frio", "valor": null, "texto": "Ipsa atque fugit." }
+    ]
+  },
+  {
+    "nombre": "Salsa Carahue",
+    "descripci\u00f3n": "Repudiandae quo nulla hic esse consectetur. Commodi omnis rerum vero minima minus dolore.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 69,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Quo mollitia ducimus. Odit esse repellat tenetur reiciendis minima. Quod deserunt ex culpa quasi cupiditate velit quasi. Vitae ut consequatur veritatis hic.",
+    "imagen": "https://dummyimage.com/79x874",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 259, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 174, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 498, "unidad": "g", "texto": "334g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": true },
+      { "tipo": "Horno", "valor": null, "texto": "Sed illum aut." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": true, "texto": "Rem deleniti quod." },
+      { "tipo": "Caliente", "valor": true, "texto": "Temporibus ad." }
+    ]
+  },
+  {
+    "nombre": "Sopa Melilla",
+    "descripci\u00f3n": "Animi animi veniam quaerat recusandae perspiciatis odit cupiditate. Quis suscipit nemo.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 9,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Qui nulla nostrum praesentium accusantium. Iure quasi saepe in. Molestias soluta molestias minima.\nSint libero quod. Deleniti facere excepturi asperiores.",
+    "imagen": "https://placekitten.com/109/364",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 251, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 402, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 475, "unidad": "g", "texto": "447g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": true },
+      { "tipo": "Microondas", "valor": false, "texto": "Harum laboriosam." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": null, "texto": "Aliquid fuga unde." },
+      { "tipo": "Salado", "valor": true, "texto": "Totam nam ab dolore." }
+    ]
+  },
+  {
+    "nombre": "Ensalada C\u00e2mara do Oeste",
+    "descripci\u00f3n": "Velit dolorem ipsam fugit dolores. Quas eligendi totam reiciendis ullam est ipsa.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 142,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Quasi iste quo sint architecto quisquam quas. Veniam recusandae nesciunt nihil ratione dignissimos cumque. Temporibus repellendus veniam qui debitis modi sapiente a.",
+    "imagen": "https://picsum.photos/81/423",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 194, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 145, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 376, "unidad": "g", "texto": "188g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": false },
+      { "tipo": "Panificado", "valor": false, "texto": "Totam animi autem." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Ab unde veniam odit." },
+      { "tipo": "APPC", "valor": null, "texto": "Tempore reiciendis." }
+    ]
+  },
+  {
+    "nombre": "Postre Caracol\u00ed",
+    "descripci\u00f3n": "Quia repellat ab odio neque sint. Nobis perspiciatis perspiciatis nobis consectetur.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 78,
+    "dificultad": "Medio",
+    "instrucciones": "Quod laborum voluptate distinctio temporibus impedit. Sunt iure repellat tempore. Nisi at itaque iusto.\nQuisquam fugiat ad aliquid.",
+    "imagen": "https://dummyimage.com/220x736",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 286, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 269, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 398, "unidad": "g", "texto": "210g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": null },
+      { "tipo": "Microondas", "valor": true, "texto": "Distinctio ipsam." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": true, "texto": "Voluptate quidem." },
+      { "tipo": "Dulce", "valor": true, "texto": "Rerum repudiandae." }
+    ]
+  },
+  {
+    "nombre": "Sandwich Guatavita",
+    "descripci\u00f3n": "Et quaerat veniam. Ab illum laboriosam possimus fugiat non.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 60,
+    "dificultad": "Medio",
+    "instrucciones": "Culpa magnam distinctio odit cumque nobis quod.\nQuo maiores maxime ab.\nAdipisci aspernatur iure aliquid facere magnam numquam. Libero sunt atque molestiae iure sint quia libero.",
+    "imagen": "https://picsum.photos/73/714",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 278, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 148, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 244, "unidad": "g", "texto": "160g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": true },
+      { "tipo": "Horno", "valor": null, "texto": "Labore reiciendis." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": false, "texto": "Id facilis fuga." },
+      { "tipo": "Frio", "valor": true, "texto": "Aspernatur dolorem." }
+    ]
+  },
+  {
+    "nombre": "Postre Puc\u00f3n",
+    "descripci\u00f3n": "Neque beatae ipsa odit totam ad officiis. Officiis ut nobis omnis hic.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 37,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Est ex sequi laudantium. Deleniti esse repellendus iure ipsa tempore.\nNihil blanditiis reprehenderit vitae nesciunt. Soluta nisi ipsa modi itaque.",
+    "imagen": "https://dummyimage.com/898x452",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 233, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 129, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 261, "unidad": "g", "texto": "333g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": null },
+      { "tipo": "Panificado", "valor": false, "texto": "Numquam vitae." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": true, "texto": "Culpa sapiente." },
+      { "tipo": "APPC", "valor": null, "texto": "Aspernatur amet." }
+    ]
+  },
+  {
+    "nombre": "Salsa Tom\u00e9",
+    "descripci\u00f3n": "Nisi quibusdam amet aperiam. Quidem neque cumque. Nesciunt unde et ipsum.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 107,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Reiciendis libero reprehenderit in voluptate sit laborum. Quia aliquid iusto. Eligendi reiciendis omnis aliquid odio enim.\nCorrupti eveniet eum ullam. Cum nisi eum.",
+    "imagen": "https://dummyimage.com/354x977",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 475, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 161, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 246, "unidad": "g", "texto": "219g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": true },
+      { "tipo": "Microondas", "valor": false, "texto": "Neque quos." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Ex necessitatibus." },
+      { "tipo": "Caliente", "valor": null, "texto": "Quam illum eaque." }
+    ]
+  },
+  {
+    "nombre": "Salsa Barcelona",
+    "descripci\u00f3n": "Porro dolor quibusdam tempora. Eaque fugiat esse incidunt repellendus architecto inventore.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 138,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Nemo esse similique voluptas. Nam quis blanditiis fugit perspiciatis iusto dicta commodi. Nulla nesciunt explicabo sequi dignissimos perferendis in voluptates. Impedit impedit odit hic.",
+    "imagen": "https://placekitten.com/121/702",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 106, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 149, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 493, "unidad": "g", "texto": "276g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": null },
+      { "tipo": "Panificado", "valor": true, "texto": "Maxime nesciunt." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Nemo fugiat amet." },
+      { "tipo": "Caliente", "valor": null, "texto": "Placeat expedita." }
+    ]
+  },
+  {
+    "nombre": "Sopa Borges dos Dourados",
+    "descripci\u00f3n": "Voluptate laboriosam accusamus architecto. Quas voluptas odio aut commodi.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 15,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Iusto laborum quam soluta voluptatibus. Dignissimos repellat temporibus dolorem. Dolor tenetur magnam dolorum ut architecto repellendus.",
+    "imagen": "https://picsum.photos/913/88",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 192, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 257, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 291, "unidad": "g", "texto": "172g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": false },
+      { "tipo": "Licuadora", "valor": true, "texto": "Sapiente eligendi." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": true, "texto": "Dicta dolorem." },
+      { "tipo": "Salado", "valor": false, "texto": "Vero occaecati." }
+    ]
+  },
+  {
+    "nombre": "Salsa Barcelona",
+    "descripci\u00f3n": "Optio fuga harum nisi. Ad eligendi sunt.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 105,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Aspernatur voluptates ex vero necessitatibus iste. Ipsa aliquam enim quod. Id ullam incidunt nobis tenetur esse.",
+    "imagen": "https://picsum.photos/68/490",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 442, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 148, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 109, "unidad": "g", "texto": "333g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": false },
+      { "tipo": "Horno", "valor": true, "texto": "Quasi repellat." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Optio accusantium." },
+      { "tipo": "APPC", "valor": true, "texto": "Modi nobis iure." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Madrid",
+    "descripci\u00f3n": "Iste quae molestiae assumenda tempora quas. Impedit iure tempore dolores a.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 81,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Temporibus voluptatem inventore sit a fuga possimus. Exercitationem praesentium explicabo soluta rem eligendi.",
+    "imagen": "https://placekitten.com/532/139",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 144, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 177, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 327, "unidad": "g", "texto": "362g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": null },
+      { "tipo": "Pasta", "valor": null, "texto": "Aliquid eius." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Caliente", "valor": null, "texto": "Nam eligendi et eum." },
+      { "tipo": "Dulce", "valor": false, "texto": "Magnam doloribus id." }
+    ]
+  },
+  {
+    "nombre": "Sopa San Diego",
+    "descripci\u00f3n": "Eaque sapiente doloremque esse. Inventore cupiditate pariatur maxime mollitia nihil at.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 92,
+    "dificultad": "Medio",
+    "instrucciones": "Perspiciatis vero suscipit commodi. Excepturi illum laboriosam totam nobis nulla exercitationem. Error commodi accusantium eum.\nMolestias quasi nobis ullam provident.",
+    "imagen": "https://picsum.photos/139/904",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 120, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 260, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 306, "unidad": "g", "texto": "470g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": false },
+      { "tipo": "Panificado", "valor": true, "texto": "Reprehenderit." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Delectus delectus." },
+      { "tipo": "Dulce", "valor": false, "texto": "Nam culpa similique." }
+    ]
+  },
+  {
+    "nombre": "Sopa Correia Grande",
+    "descripci\u00f3n": "Modi aliquam dolore eius amet. Quae quibusdam aspernatur nisi. Nihil dolores cum.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 168,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Corporis voluptatibus modi architecto illum molestias laboriosam a. Reprehenderit quasi temporibus tempora consequatur quidem deleniti. Modi quaerat vitae distinctio deserunt delectus quod quod.",
+    "imagen": "https://placekitten.com/749/296",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 366, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 474, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 298, "unidad": "g", "texto": "240g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": true },
+      { "tipo": "Sart\u00e9n", "valor": false, "texto": "Tempore illo quis." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": true, "texto": "Suscipit fugiat." },
+      { "tipo": "Salado", "valor": false, "texto": "Officia magni." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Ourense",
+    "descripci\u00f3n": "Praesentium minima culpa quos. Provident culpa perspiciatis quis laborum quae.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 141,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Rerum voluptates magnam molestiae fugiat repellat necessitatibus. Ex earum minima perferendis hic illum neque. Id nemo delectus ratione deleniti.",
+    "imagen": "https://picsum.photos/497/483",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 256, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 483, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 200, "unidad": "g", "texto": "452g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": false },
+      { "tipo": "Sart\u00e9n", "valor": true, "texto": "Numquam mollitia." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Incidunt." },
+      { "tipo": "Caliente", "valor": null, "texto": "Velit nam numquam." }
+    ]
+  },
+  {
+    "nombre": "Postre Zaragoza",
+    "descripci\u00f3n": "Cum molestiae consectetur eius facere. Ut quod corporis.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 109,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Praesentium maiores consectetur dolore error porro.\nBlanditiis quibusdam modi quidem consequatur repudiandae eaque nobis. Quam consequuntur nostrum eaque sed tempore dicta expedita. Veniam illo a.",
+    "imagen": "https://dummyimage.com/125x605",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 408, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 179, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 308, "unidad": "g", "texto": "443g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": null },
+      { "tipo": "Sart\u00e9n", "valor": null, "texto": "Iusto voluptatum." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Eos dignissimos." },
+      { "tipo": "Dulce", "valor": true, "texto": "Harum ad blanditiis." }
+    ]
+  },
+  {
+    "nombre": "Postre Rosario",
+    "descripci\u00f3n": "Ipsa dolorum sed.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 154,
+    "dificultad": "Medio",
+    "instrucciones": "Minus officiis molestiae dolorum illum similique. Excepturi labore itaque fugiat nisi. Reprehenderit nobis magni veritatis ad quasi culpa quo. Vitae voluptas amet sed nobis fuga occaecati repellat.",
+    "imagen": "https://placekitten.com/569/332",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 433, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 196, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 167, "unidad": "g", "texto": "453g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": true },
+      { "tipo": "Panificado", "valor": true, "texto": "Repudiandae nulla." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": true, "texto": "Repellendus vero." },
+      { "tipo": "APPC", "valor": null, "texto": "Tempora nisi." }
+    ]
+  },
+  {
+    "nombre": "Postre San Andr\u00e9s de Cuerqu\u00eda",
+    "descripci\u00f3n": "Eaque ducimus aliquam similique necessitatibus veniam earum. Iusto atque a reiciendis saepe.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 104,
+    "dificultad": "Medio",
+    "instrucciones": "Voluptatum dolore doloribus quae. Eveniet provident alias totam illum enim. Quos quae non suscipit exercitationem reprehenderit amet perspiciatis.",
+    "imagen": "https://dummyimage.com/785x648",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 455, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 252, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 404, "unidad": "g", "texto": "474g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": true },
+      { "tipo": "Licuadora", "valor": false, "texto": "Nemo dolorem." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Officia repudiandae." },
+      { "tipo": "Dulce", "valor": null, "texto": "Hic a natus." }
+    ]
+  },
+  {
+    "nombre": "Salsa Coltauco",
+    "descripci\u00f3n": "Sit eos tempore. Iste nihil modi tempore neque.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 143,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Nostrum consequatur ex sit repellendus. Dolore excepturi dolores mollitia.",
+    "imagen": "https://dummyimage.com/214x758",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 205, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 326, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 332, "unidad": "g", "texto": "442g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": true },
+      { "tipo": "Panificado", "valor": false, "texto": "Reprehenderit odio." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Et nobis velit." },
+      { "tipo": "Dulce", "valor": false, "texto": "Aperiam veritatis." }
+    ]
+  },
+  {
+    "nombre": "Salsa C\u00f3rdoba",
+    "descripci\u00f3n": "Officia porro quae modi voluptatem numquam omnis quo. Quod natus quae.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 17,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Pariatur in ab dolorem fuga sapiente repudiandae voluptate. Repudiandae laborum eum laudantium recusandae totam. Expedita voluptate nisi dolores.",
+    "imagen": "https://picsum.photos/889/838",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 437, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 169, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 169, "unidad": "g", "texto": "240g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": false },
+      { "tipo": "Horno", "valor": true, "texto": "Repudiandae ad amet." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": null, "texto": "Excepturi." },
+      { "tipo": "Dulce", "valor": false, "texto": "Accusantium." }
+    ]
+  },
+  {
+    "nombre": "Salsa Cavalcante",
+    "descripci\u00f3n": "Eos cum sapiente recusandae dolorem. Eius odit ex alias veritatis sequi nulla.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 107,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Ipsam odit quasi quo. Facilis aliquam quasi aliquid ut id.\nDebitis ex laborum amet. Ab aliquid repudiandae perferendis fugiat.",
+    "imagen": "https://picsum.photos/856/407",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 278, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 284, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 463, "unidad": "g", "texto": "295g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": null },
+      { "tipo": "Panificado", "valor": false, "texto": "Reiciendis." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Ab cum maiores." },
+      { "tipo": "Salado", "valor": null, "texto": "Aperiam ipsam." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Tarragona",
+    "descripci\u00f3n": "Sint quam minus. Qui quas exercitationem aliquam.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 137,
+    "dificultad": "Medio",
+    "instrucciones": "Dolorum explicabo esse fugiat iusto rem. Vitae modi perspiciatis eaque. Quis blanditiis iusto nihil dolor tempora rerum.",
+    "imagen": "https://dummyimage.com/742x962",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 252, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 263, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 298, "unidad": "g", "texto": "290g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": null },
+      { "tipo": "Panificado", "valor": true, "texto": "Quaerat earum." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Ab quae odit velit." },
+      { "tipo": "Dulce", "valor": null, "texto": "Iusto cumque." }
+    ]
+  },
+  {
+    "nombre": "Salsa El Pe\u00f1\u00f3n",
+    "descripci\u00f3n": "Natus eius mollitia voluptates quos laudantium dicta. Quae blanditiis dolor ratione aliquid.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 35,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Illo suscipit numquam sapiente ea earum voluptate. Odio ad ipsa ratione.\nDistinctio corrupti fuga dignissimos. Suscipit numquam pariatur odit.",
+    "imagen": "https://dummyimage.com/59x687",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 394, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 190, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 247, "unidad": "g", "texto": "150g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": true },
+      { "tipo": "Pasta", "valor": true, "texto": "Repellendus beatae." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Frio", "valor": false, "texto": "Ipsum minus quo." },
+      { "tipo": "Caliente", "valor": null, "texto": "Voluptas eos." }
+    ]
+  },
+  {
+    "nombre": "Sopa Gal\u00e1n",
+    "descripci\u00f3n": "Laudantium aperiam molestias saepe asperiores itaque odit. Consequatur modi placeat aliquam sunt.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 57,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Pariatur repellendus mollitia aspernatur non quasi fugit. Fugiat corrupti enim aliquid. Ratione veniam sint ratione.\nNatus odio fuga exercitationem. Nulla voluptas dolorum nemo similique dolor in.",
+    "imagen": "https://picsum.photos/288/513",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 151, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 104, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 405, "unidad": "g", "texto": "142g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": true },
+      { "tipo": "Pasta", "valor": true, "texto": "Delectus saepe." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Dolore delectus." },
+      { "tipo": "Salado", "valor": true, "texto": "Consectetur aut." }
+    ]
+  },
+  {
+    "nombre": "Salsa Pimenta",
+    "descripci\u00f3n": "Accusamus distinctio reprehenderit assumenda. Eligendi eaque tempore.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 152,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Voluptate minima aspernatur aut maiores beatae. Assumenda explicabo cupiditate quibusdam sed atque dignissimos. Fugit eaque distinctio debitis ratione ad.",
+    "imagen": "https://dummyimage.com/1022x290",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 396, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 427, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 280, "unidad": "g", "texto": "322g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": false },
+      { "tipo": "Panificado", "valor": true, "texto": "Fugiat illum eum." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Caliente", "valor": null, "texto": "Non sit alias." },
+      { "tipo": "APPC", "valor": false, "texto": "Ea quae cumque." }
+    ]
+  },
+  {
+    "nombre": "Salsa Jurad\u00f3",
+    "descripci\u00f3n": "Amet repudiandae fugit error. Et aliquam quaerat tempore. Dolorem quisquam beatae nulla repellat.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 6,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Dolores nisi voluptatibus.\nLibero animi facilis ea in incidunt. Minus porro suscipit accusamus labore. Excepturi enim sapiente repellendus.",
+    "imagen": "https://picsum.photos/430/33",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 296, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 284, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 271, "unidad": "g", "texto": "376g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": false },
+      { "tipo": "Horno", "valor": true, "texto": "Officia pariatur." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": true, "texto": "Accusamus illo." },
+      { "tipo": "Frio", "valor": true, "texto": "Quae distinctio." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Lenguazaque",
+    "descripci\u00f3n": "Dolore eaque voluptas voluptatibus. Voluptate iusto ipsa dicta pariatur repudiandae occaecati.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 157,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Occaecati officia nulla doloribus. Repellendus soluta tenetur eos magnam ex.",
+    "imagen": "https://placekitten.com/201/211",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 139, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 269, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 235, "unidad": "g", "texto": "469g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": true },
+      { "tipo": "Licuadora", "valor": null, "texto": "Quisquam totam." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": true, "texto": "Eaque nam quaerat." },
+      { "tipo": "Dulce", "valor": false, "texto": "Asperiores deleniti." }
+    ]
+  },
+  {
+    "nombre": "Sandwich Bucarasica",
+    "descripci\u00f3n": "Eaque cumque suscipit. Fugit placeat amet earum sed ipsa beatae.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 45,
+    "dificultad": "Medio",
+    "instrucciones": "Aliquam harum perspiciatis debitis excepturi occaecati qui. Labore libero dicta dolore placeat neque explicabo.\nError officiis non illum. Cupiditate quam ducimus enim.",
+    "imagen": "https://picsum.photos/704/245",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 147, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 140, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 477, "unidad": "g", "texto": "324g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": false },
+      { "tipo": "Microondas", "valor": false, "texto": "Quo ut architecto." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Caliente", "valor": true, "texto": "Natus corporis." },
+      { "tipo": "APPC", "valor": null, "texto": "Maiores sed facilis." }
+    ]
+  },
+  {
+    "nombre": "Salsa Formosa",
+    "descripci\u00f3n": "Velit provident unde.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 62,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Libero adipisci error quis odio fugiat. Nulla cupiditate perspiciatis atque quae. Totam quae cum veritatis veniam.",
+    "imagen": "https://dummyimage.com/849x264",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 362, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 491, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 438, "unidad": "g", "texto": "116g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": null },
+      { "tipo": "Horno", "valor": true, "texto": "Suscipit eligendi." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Porro recusandae." },
+      { "tipo": "Caliente", "valor": false, "texto": "Vitae a sunt nulla." }
+    ]
+  },
+  {
+    "nombre": "Salsa Cunha",
+    "descripci\u00f3n": "Recusandae ipsam eius vitae. Porro in harum tenetur id explicabo suscipit.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 149,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Incidunt et reiciendis quo est omnis similique. Eveniet dolores minus doloremque. Eos eveniet culpa labore repudiandae officiis.",
+    "imagen": "https://placekitten.com/700/315",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 492, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 472, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 176, "unidad": "g", "texto": "270g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": true },
+      { "tipo": "Panificado", "valor": null, "texto": "Delectus minus." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Caliente", "valor": false, "texto": "Dolorem mollitia." },
+      { "tipo": "APPC", "valor": null, "texto": "Quae voluptate nemo." }
+    ]
+  },
+  {
+    "nombre": "Sandwich Chiriguan\u00e1",
+    "descripci\u00f3n": "Iure quod consequatur sunt.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 92,
+    "dificultad": "Medio",
+    "instrucciones": "Vitae soluta distinctio sint quia ratione excepturi nisi. Consequuntur consectetur reprehenderit natus aut incidunt repellat.",
+    "imagen": "https://placekitten.com/91/273",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 222, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 191, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 419, "unidad": "g", "texto": "143g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": false },
+      { "tipo": "Licuadora", "valor": true, "texto": "Nostrum enim maxime." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Caliente", "valor": true, "texto": "Quisquam suscipit." },
+      { "tipo": "Dulce", "valor": false, "texto": "Porro rem impedit." }
+    ]
+  },
+  {
+    "nombre": "Sandwich Loncoche",
+    "descripci\u00f3n": "Eveniet maiores libero dignissimos. Cumque nihil deserunt nisi velit dolor error.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 143,
+    "dificultad": "Medio",
+    "instrucciones": "Accusantium incidunt iusto. Mollitia alias neque vel. Quis soluta aut sint repellat error explicabo.",
+    "imagen": "https://picsum.photos/561/348",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 397, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 357, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 255, "unidad": "g", "texto": "184g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": true },
+      { "tipo": "Panificado", "valor": false, "texto": "Quia id ducimus." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Recusandae vel." },
+      { "tipo": "Dulce", "valor": true, "texto": "Odio officiis." }
+    ]
+  },
+  {
+    "nombre": "Postre San Vicente Ferrer",
+    "descripci\u00f3n": "Expedita in laudantium. Tempore eius fuga tempore sit id.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 151,
+    "dificultad": "Medio",
+    "instrucciones": "Et culpa aut expedita laborum. Praesentium modi recusandae accusamus vitae illo nihil quam. Tenetur mollitia sint.\nConsequuntur atque sint deleniti. Libero esse praesentium doloremque eum ab tempora.",
+    "imagen": "https://picsum.photos/648/398",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 113, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 108, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 293, "unidad": "g", "texto": "152g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": null },
+      { "tipo": "Panificado", "valor": null, "texto": "Quidem hic a." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": true, "texto": "Quisquam voluptatum." },
+      { "tipo": "Dulce", "valor": true, "texto": "Molestias." }
+    ]
+  },
+  {
+    "nombre": "Postre Cantabria",
+    "descripci\u00f3n": "Asperiores voluptatum odit officiis. Quia expedita exercitationem nobis ex.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 173,
+    "dificultad": "Medio",
+    "instrucciones": "Impedit voluptatum doloremque temporibus fugiat. Repudiandae est expedita occaecati officiis. Vero consectetur non distinctio fugit in ut.\nOccaecati sint ipsa.",
+    "imagen": "https://placekitten.com/94/281",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 468, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 145, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 262, "unidad": "g", "texto": "379g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": false },
+      { "tipo": "Pasta", "valor": null, "texto": "Iste occaecati ipsa." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": null, "texto": "Ex nesciunt." },
+      { "tipo": "Dulce", "valor": false, "texto": "Odio eos cumque." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Toledo",
+    "descripci\u00f3n": "Mollitia aperiam dolorem eveniet modi ex commodi. Nemo ipsa vitae accusantium.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 163,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Quia voluptas nobis dignissimos eligendi. Facere distinctio vero praesentium.\nRepudiandae illum quae iure necessitatibus. Sunt velit aliquam hic fuga labore consequuntur.",
+    "imagen": "https://picsum.photos/328/490",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 2, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 418, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 474, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 293, "unidad": "g", "texto": "375g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": true },
+      { "tipo": "Sart\u00e9n", "valor": false, "texto": "Asperiores optio." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Iusto totam eveniet." },
+      { "tipo": "Dulce", "valor": false, "texto": "Ratione laboriosam." }
+    ]
+  },
+  {
+    "nombre": "Sandwich da Mota",
+    "descripci\u00f3n": "Repellat consectetur delectus nisi. Aperiam dolor recusandae harum ex aspernatur ratione.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 23,
+    "dificultad": "Medio",
+    "instrucciones": "Aliquam cum eos dicta nisi quaerat accusamus quos. Reiciendis aliquid autem aliquam aut doloremque nisi fugit.\nIn voluptatum enim non. Iure animi minus non tempora porro.",
+    "imagen": "https://picsum.photos/859/624",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 268, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 389, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 489, "unidad": "g", "texto": "227g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": false },
+      { "tipo": "Microondas", "valor": false, "texto": "Dolorum autem neque." }
+    ],
+    "caracteristicas": [
+      { "tipo": "APPC", "valor": false, "texto": "Dolor quidem rerum." },
+      { "tipo": "APPC", "valor": null, "texto": "Dolorum fugiat." }
+    ]
+  },
+  {
+    "nombre": "Sopa Pelarco",
+    "descripci\u00f3n": "Quas expedita vel nemo harum necessitatibus.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 133,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Architecto quibusdam eius. Voluptates repellendus nobis omnis ad ullam pariatur dolor. Adipisci enim consequuntur numquam dolor facere.",
+    "imagen": "https://picsum.photos/441/824",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 179, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 217, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 2, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 316, "unidad": "g", "texto": "460g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Panificado", "valor": false },
+      { "tipo": "Horno", "valor": true, "texto": "Assumenda ex illo." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": true, "texto": "Enim dolore dolore." },
+      { "tipo": "APPC", "valor": false, "texto": "Ea perspiciatis." }
+    ]
+  },
+  {
+    "nombre": "Postre Bulnes",
+    "descripci\u00f3n": "Libero nulla ut. Excepturi distinctio suscipit est.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 123,
+    "dificultad": "Medio",
+    "instrucciones": "Ex labore hic aliquam ipsum voluptates. At cupiditate aliquam quia numquam ad placeat quaerat.\nNeque deserunt tempora perspiciatis nemo doloribus maiores. Exercitationem quibusdam nesciunt officia.",
+    "imagen": "https://dummyimage.com/739x722",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 351, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 409, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 438, "unidad": "g", "texto": "405g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Pasta", "valor": true },
+      { "tipo": "Panificado", "valor": true, "texto": "Suscipit delectus." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": false, "texto": "Perferendis et unde." },
+      { "tipo": "Frio", "valor": true, "texto": "Id quidem quaerat." }
+    ]
+  },
+  {
+    "nombre": "Ensalada Queil\u00e9n",
+    "descripci\u00f3n": "Magnam corporis alias. Consectetur nobis eaque odio sint.",
+    "categoria": "Almuerzo",
+    "tiempo_preparaci\u00f3n": 38,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Atque accusantium veniam.\nSed esse nostrum voluptatem ipsum velit. Atque eveniet provident iusto magnam.\nAnimi dolorum dolores adipisci ex. Fuga enim corporis iure.",
+    "imagen": "https://dummyimage.com/739x944",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 1, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 481, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 153, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 3, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 452, "unidad": "g", "texto": "188g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Licuadora", "valor": null },
+      { "tipo": "Pasta", "valor": true, "texto": "Voluptatibus esse." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Dulce", "valor": true, "texto": "Sed deserunt." },
+      { "tipo": "Salado", "valor": false, "texto": "Porro eum deserunt." }
+    ]
+  },
+  {
+    "nombre": "Salsa Merlo",
+    "descripci\u00f3n": "Doloribus voluptate soluta sit. Neque molestias officia cupiditate. Amet sed perspiciatis.",
+    "categoria": "Cena",
+    "tiempo_preparaci\u00f3n": 160,
+    "dificultad": "F\u00e1cil",
+    "instrucciones": "Laudantium occaecati et minima quas. Eum nostrum id libero tempore atque aperiam.",
+    "imagen": "https://dummyimage.com/19x426",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 137, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 292, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 257, "unidad": "g", "texto": "177g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Microondas", "valor": true },
+      { "tipo": "Microondas", "valor": false, "texto": "Unde ipsa quod." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": true, "texto": "Accusamus error." },
+      { "tipo": "Frio", "valor": true, "texto": "A consequuntur." }
+    ]
+  },
+  {
+    "nombre": "Sandwich Castell\u00f3n",
+    "descripci\u00f3n": "Quasi fugiat iusto voluptate error nesciunt. Ratione dolor rerum. Quisquam nemo aut.",
+    "categoria": "Desayuno",
+    "tiempo_preparaci\u00f3n": 165,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Doloremque aliquid ipsam fugit repudiandae eius necessitatibus. Quod facere nostrum porro dolorem cum delectus.\nA hic voluptates vero quibusdam. Nulla esse quod.",
+    "imagen": "https://picsum.photos/644/984",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 465, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 385, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 468, "unidad": "g", "texto": "477g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Horno", "valor": true },
+      { "tipo": "Microondas", "valor": null, "texto": "Officiis iste saepe." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Caliente", "valor": false, "texto": "Deserunt delectus." },
+      { "tipo": "Salado", "valor": false, "texto": "Vitae adipisci." }
+    ]
+  },
+  {
+    "nombre": "Postre San Vicente del Cagu\u00e1n",
+    "descripci\u00f3n": "Dolor nostrum voluptatem ipsam. Voluptas culpa iste nostrum necessitatibus.",
+    "categoria": "Merienda",
+    "tiempo_preparaci\u00f3n": 125,
+    "dificultad": "Dif\u00edcil",
+    "instrucciones": "Sed ab nemo necessitatibus qui unde eaque. Eligendi provident pariatur fugit accusantium ullam.\nLabore odio recusandae in sed. Quibusdam ipsa esse.",
+    "imagen": "https://dummyimage.com/414x69",
+    "ingredientes": [
+      { "nombre": "Huevos", "cantidad": 3, "unidad": "Unidad/es" },
+      { "nombre": "Harina", "cantidad": 349, "unidad": "g" },
+      { "nombre": "Agua", "cantidad": 409, "unidad": "ml" }
+    ],
+    "rendimiento": [
+      { "cantidad": 1, "unidad": "Porci\u00f3n/es" },
+      { "cantidad": 275, "unidad": "g", "texto": "464g" }
+    ],
+    "etiquetas": [
+      { "tipo": "Sart\u00e9n", "valor": false },
+      { "tipo": "Licuadora", "valor": false, "texto": "Impedit earum odit." }
+    ],
+    "caracteristicas": [
+      { "tipo": "Salado", "valor": false, "texto": "Aperiam itaque." },
+      { "tipo": "Frio", "valor": null, "texto": "Distinctio quaerat." }
+    ]
+  }
+]
