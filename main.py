@@ -56,10 +56,26 @@ def filters():
     })
     print(recipe["nombre"])
     
-    # 4. (Modificar) Mostrar nombre y rendimiento de cada receta #TODO
-    print("\n4. Rendimiento de recetas:")
-    for recipe in db.recetas.find():
-        print(recipe["nombre"], "=", recipe["rendimiento"][0]["cantidad"], )
+    # 4. Recetas vegetarianas, pero no veganas
+    print("\n4. Recetas vegetarianas:")
+    response = db.recetas.aggregate([
+        {
+            "$match": {
+                "$and": [
+                    {
+                        "caracteristicas.tipo": "vegetariano",
+                        "caracteristicas.valor": True
+                    },
+                    {
+                        "caracteristicas.tipo": "vegan",
+                        "caracteristicas.valor": False
+                    }
+                ]
+            }
+        }
+    ])
+    for recipe in response:
+        print(recipe["nombre"])
 
     # 5. Cantidad de recetas que no usen cebolla
     print("\n5. Cantidad de recetas que no usen cebolla:")
