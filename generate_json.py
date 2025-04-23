@@ -9,7 +9,7 @@ COMIDAS = ['Sopa', 'Ensalada', 'Salsa', 'Sandwich', 'Postre']
 CATEGORIAS = ['Desayuno', 'Almuerzo', 'Merienda', 'Cena']
 DIFICULTADES = ['Fácil', 'Medio', 'Difícil']
 ETIQUETAS = ['Horno', 'Sartén', 'Microondas', 'Licuadora', 'Panificado', 'Pasta']
-CARACTERISTICAS = ['Dulce', 'Salado', 'Frio', 'Caliente', 'Dulce', 'APPC']
+CARACTERISTICAS = ['Dulce', 'Salado', 'Frio', 'Caliente', 'Dulce', 'APPC', 'vegan', 'veggie']
 
 recetas = [{
     "nombre": random.choice(COMIDAS) + ' ' + faker.city(),
