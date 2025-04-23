@@ -154,8 +154,14 @@ def parte_cuatro_punto_nueve():
     # 5. Recetas vegetarianas
     print("\n5. Recetas con la tag vegana")
     response = db.recetas.find({
-        "etiquetas.tipo": "vegana"
+        "caracteristicas": {
+            "$elemMatch": {
+                "tipo": "vegan",
+                "valor": True
+            }
+        }
     })
+
     for recipe in response:
         print(recipe["nombre"])
 
