@@ -27,6 +27,8 @@ def MostrarTodosLosDocumentos():
 
 
 def filters():
+
+    # 1. Recetas para el desayuno
     print("\n1. Recetas para el desayuno:")
     response = db.recetas.find({
         "categoria": "Desayuno"
@@ -34,6 +36,7 @@ def filters():
     for recipe in response:
         print(recipe["nombre"])
 
+    # 2. Recetas que usen huevos
     print("\n2. Recetas que usen huevos:")
     response = db.recetas.find({
         "ingredientes.nombre": {"$regex": "^Huevo"}
@@ -41,6 +44,7 @@ def filters():
     for recipe in response:
         print(recipe["nombre"])
 
+    # 3. Una receta fria
     print("\n3. Una receta fria:")
     recipe = db.recetas.find_one({
         "etiquetas": {
@@ -51,33 +55,42 @@ def filters():
         }
     })
     print(recipe["nombre"])
+    
+    # 4. (Modificar) Mostrar nombre y rendimiento de cada receta #TODO
+    print("\n4. Rendimiento de recetas:")
+    for recipe in db.recetas.find():
+        print(recipe["nombre"], "=", recipe["rendimiento"][0]["cantidad"], )
 
-    # print("\n4. Recetas para más de 5 personas:")                     #TODO: Funciona, pero no todas las recetas en rendimiento usan Porción como unidad        
-    # response = db.recetas.find({
-    # "rendimiento": {
-    #     "$elemMatch": {               
-    #         "$or": [
-    #             {"unidad": "Porción", "cantidad": {"$gt": 5}}
-    #         ]
-    #     }
-    # }
-    # })
-    # for recipe in response:
-    #     print(recipe["nombre"], "=",recipe["rendimiento"][0]["cantidad"], "persona/s")
+    # 5. Cantidad de recetas que no usen cebolla
+    print("\n5. Cantidad de recetas que no usen cebolla:")
 
-    # print("\n5. Cantidad de recetas que no usen cebolla:")
-    # response = list(db.recetas.aggregate([
-    #     {
-    #     "$match": {
-    #         "ingredientes.nombre": {
-    #             "$not": {"$regex": "cebolla", "$options": "i"}
-    #         }
-    #     }                                                 #TODO: No funciona, hay que cambiarlo
-    #     },
-    #     {"$count": "total_sin_cebolla"}
-    # ]))
-    # print("Cantidad de recetas:", response["count"])
+    response = list(db.recetas.aggregate([
+        {
+            "$match": {
+                "ingredientes.nombre": {
+                    "$not": {"$regex": "cebolla", "$options": "i"}
+                }
+            }
+        },
+        {"$count": "total_sin_cebolla"}
+    ]))
 
+    if response:
+        print("Cantidad de recetas:", response[0]["total_sin_cebolla"])
+    else:
+        print("No se encontraron recetas sin cebolla.")
+
+    print("\nRecetas sin cebolla:")
+    recetas_sin_cebolla = db.recetas.find({
+        "ingredientes.nombre": {
+            "$not": {"$regex": "cebolla", "$options": "i"}
+        }
+    })
+
+    for receta in recetas_sin_cebolla:
+        print("-", receta["nombre"])
+
+    # 6. Recetas de dificutad media
     print("\n6. Recetas que sean de dificultad media:")
     response = db.recetas.find({
         "dificultad": "Media"
@@ -85,6 +98,7 @@ def filters():
     for recipe in response:
         print(recipe["nombre"])
 
+    # 7. Recetas que tengan un tiempo de cocción menor a 30 min
     print("\n7. Recetas que tengan un tiempo de cocción menor a 30 minutos:")
     response = db.recetas.find({
         "tiempo_preparación": {"$lt": 30}
