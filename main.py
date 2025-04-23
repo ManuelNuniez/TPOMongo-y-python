@@ -1,7 +1,7 @@
-
+# La parte 1 punto 2, se encuentra en el archivo de debajo
 from conn import db, client
 
-def parte_uno():
+def parte_uno_punto_dos():
     print("\nListando todas las bases de datos")
     print(client.list_database_names())
     print("\nListando todas las Colecciones")
@@ -11,22 +11,18 @@ def parte_uno():
     client.drop_database('baseDeDatos')
     
     # Creamos Nueva BD de prueba:
-
     print("\nCreando base de datos 'baseDeDatos'")
     test_db = client['baseDeDatos']
 
     print("\nCreando coleccion 'coleccion'")
     test_db.create_collection('coleccion')
 
-
-# MostrarDocumentos
-def MostrarTodosLosDocumentos():
+def parte_dos_punto_cuatro():
     response = list(db.recetas.find())
     for doc in response:
         print(doc["_id"], "-", doc["nombre"])
 
-
-def filters():
+def parte_dos_punto_cinco():
 
     # 1. Recetas para el desayuno
     print("\n1. Recetas para el desayuno:")
@@ -122,8 +118,7 @@ def filters():
     for recipe in response:
         print(recipe["nombre"], "-->", recipe["tiempo_preparación"], "minuto/s")
 
-
-def queries():
+def parte_cuatro_punto_nueve():
     # 1. Recetas que tengan un tiempo de cocción menor a 30 minutos
     response = db.recetas.find({
         "tiempo_preparación": {"$lt": 30}
@@ -168,7 +163,7 @@ def queries():
         print(recipe["nombre"])
 
 def main():
-    parte_uno()
-    MostrarTodosLosDocumentos()
-    filters()
-    queries()
+    parte_uno_punto_dos()
+    parte_dos_punto_cuatro()
+    parte_dos_punto_cinco()
+    parte_cuatro_punto_nueve()
