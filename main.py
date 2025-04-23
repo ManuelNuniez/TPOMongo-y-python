@@ -118,6 +118,74 @@ def parte_dos_punto_cinco():
     for recipe in response:
         print(recipe["nombre"], "-->", recipe["tiempo_preparación"], "minuto/s")
 
+def parte_tres_punto_siete():
+
+    # 1. Recetas que no tienen etiquetas
+    print("\n1. Eliminacion de recetas que no tengan etiquetas:")
+    response = db.recetas.delete_many({
+        "etiquetas": {
+            "$exists": True,
+            "$eq": []
+        }
+    })
+    print("Recetas eliminadas:", response.deleted_count)
+
+    # 2. Recetas con 4 ingredientes
+    print("\n2. Eliminación de recetas con 4 ingredientes:")
+    response = db.recetas.delete_many({
+        "ingredientes": {
+            "$size": 4
+        }
+    })
+    print("Recetas eliminadas:", response.deleted_count)
+
+    # 3. Recetas de categoria cena
+    print("\n3. Eliminación de recetas de categoria cena:")
+    response = db.recetas.delete_many({
+        "categoria": "Cena"
+    })
+    print("Recetas eliminadas:", response.deleted_count)
+
+    # 4. Recetas con dos porciones
+    print("\n4. Eliminación de recetas con dos porciones:")
+    response = db.recetas.delete_many({
+        "rendimiento": {
+            "$elemMatch": {
+                "cantidad": 2,
+                "unidad": "Porciones"
+            }
+        }
+    })
+    print("Recetas eliminadas:", response.deleted_count)
+
+    # 5. Recetas de color verde
+    print("\n5. Eliminación de recetas de color verde:")
+    response = db.recetas.delete_many({
+        "etiquetas": {
+            "$elemMatch": {
+                "tipo": "color",
+                "valor": "verde"
+            }
+        }
+    })
+    print("Recetas eliminadas:", response.deleted_count)
+
+    # 6. Recetas de tiempo de preparación mayor a 30 minutos
+    print("\n6. Eliminación de recetas de tiempo de preparación mayor a 30 minutos:")
+    response = db.recetas.delete_many({
+        "tiempo_preparación": {
+            "$gt": 30
+        }
+    })
+    print("Recetas eliminadas:", response.deleted_count)
+
+    # 7. Recetas de dificultad fácil
+    print("\n7. Eliminación de recetas de dificultad fácil:")
+    response = db.recetas.delete_many({
+        "dificultad": "Fácil"
+    })
+    print("Recetas eliminadas:", response.deleted_count)
+
 def parte_cuatro_punto_nueve():
     # 1. Recetas que tengan un tiempo de preparación menor a 30 minutos
     print("\n1. Recetas que tengan un tiempo de preparación menor a 30 minutos")
@@ -166,7 +234,8 @@ def parte_cuatro_punto_nueve():
         print(recipe["nombre"])
 
 def main():
-    parte_uno_punto_dos()
-    parte_dos_punto_cuatro()
-    parte_dos_punto_cinco()
-    parte_cuatro_punto_nueve()
+    # parte_uno_punto_dos()
+    # parte_dos_punto_cuatro()
+    # parte_dos_punto_cinco()
+    # parte_cuatro_punto_nueve()
+    parte_tres_punto_siete()
