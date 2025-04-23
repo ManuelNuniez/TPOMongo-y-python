@@ -106,7 +106,53 @@ def filters():
     for recipe in response:
         print(recipe["nombre"], "-->", recipe["tiempo_preparación"], "minuto/s")
 
+
+def queries():
+    # 1. Recetas que tengan un tiempo de cocción menor a 30 minutos
+    response = db.recetas.find({
+        "tiempo_preparación": {"$lt": 30}
+    })
+    for recipe in response:
+        print(recipe["nombre"], "-->", recipe["tiempo_preparación"], "minuto/s")
+
+    print()
+
+    # 2. Recetas que sean de dificultad media
+    response = db.recetas.find({
+        "dificultad": "Media"
+    })
+    for recipe in response:
+        print(recipe["nombre"])
+
+    print()
+
+    # 3. Recetas que usen huevos
+    response = db.recetas.find({
+        "ingredientes.nombre": {"$regex": "^Huevo"}
+    })
+    for recipe in response:
+        print(recipe["nombre"])
+
+    print()
+
+    # 4. Recetas para el desayuno
+    response = db.recetas.find({
+        "categoria": "Desayuno"
+    })
+    for recipe in response:
+        print(recipe["nombre"])
+
+    print()
+
+    # 5. Recetas con la tag vegana
+    response = db.recetas.find({
+        "etiquetas.tipo": "vegana"
+    })
+    for recipe in response:
+        print(recipe["nombre"])
+
 def main():
-    #parte_uno()
-    #MostrarTodosLosDocumentos()
+    parte_uno()
+    MostrarTodosLosDocumentos()
     filters()
+    queries()
